@@ -1,0 +1,16 @@
+# git and gitingnore file
+.git
+.gitignore
+
+# python virtual environment
+.venv/
+.env/
+venv/
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+
+# Postgres
+
+data/
